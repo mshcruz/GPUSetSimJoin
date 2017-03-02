@@ -1,0 +1,1024 @@
+S0	Inflammatory pseudotumour of spleen
+S1	Pathological laughter
+S2	Localization of transected wire letter
+S3	Recommended core educational guidelines on alcoholism and substance abuse for family practice residents American Academy of Family Physicians
+S4	Effect of weightbearing on healing of cortical defects in the canine tibia
+S5	Number and activity of inflammatory cells in bronchoalveolar lavage fluid in asthma and their relation to airway responsiveness
+S6	Radiation therapy of hemangioendotheliomas letter
+S7	Safety of intravenous ciprofloxacin A review
+S8	Rebound of aldosterone but not of corticosterone after suppression of adrenal function by triamcinolone acetonide in rats
+S9	Congenital divided naevus of the eyelids
+S10	An experimental investigation of the construct validity of the McGill Pain Questionnaire
+S11	Results of an intervention to improve compliance with referrals for evaluation of suspected malignancies at neighborhood public health centers
+S12	Access to cancer prevention detection and treatment
+S13	Absence of antibodies to human immunodeficiency virus in homosexual hemophiliac and heterosexual men in Budapest Hungary in 19831984
+S14	Tracheal stenosis and failure to wean from mechanical ventilation due to herpetic tracheitis
+S15	Evaluation of the potential role of serodiagnosis of tuberculosis in a clinic in Bolivia by decision analysis
+S16	Neonatal interleukin1 beta interleukin6 and tumor necrosis factor cord blood levels and cellular production
+S17	Primary total knee arthroplasty in patients with psoriasis
+S18	The effect of an interdisciplinary geriatrics clinic visit on mental status letter
+S19	Central sympathoinhibitory action of ketanserin in rats
+S20	Clinical pancreas transplantation a learning curve of its management
+S21	MDs hospitals unite to share indigent load
+S22	Induction of immune tolerance in hemophiliacs with inhibitors letter
+S23	Validation and evaluation of test for sympathetic cholinergic function in diabetes mellitus
+S24	Inactivation of prostaglandins in human decidua vera parietalis tissue substrate specificity of prostaglandin dehydrogenase
+S25	This month in Investigative Urology prostatespecific antigen
+S26	Effect of nimodipine on cerebrovascular response to CO2 in asymptomatic individuals and patients with subarachnoid hemorrhage a transcranial Doppler ultrasound study
+S27	Hormonal and metabolic responses during coronary artery bypass surgery role of infused glucose
+S28	Vasoactive intestinal peptide and intraocular pressure adenylate cyclase activation and binding sites for vasoactive intestinal peptide in membranes of ocular ciliary processes
+S29	Clinical characteristics pathophysiology and management of hydrocarbon ingestion case report and review of the literature
+S30	Depressive symptoms and substance use among adolescent binge eaters and purgers a defined population study
+S31	Thawing of freshfrozen plasma with a new microwave oven
+S32	Relationship of treatment for hypertension and stroke mortality letter comment
+S33	Alexithymic characteristics and metabolic control in diabetic and healthy adults
+S34	Effect of thromboxane and serotonin receptor antagonists on intracoronary platelet deposition in dogs with experimentally stenosed coronary arteries
+S35	Study of the CD3associated Tcell receptors reveals further differences between Tcell acute lymphoblastic lymphoma and leukemia
+S36	Hydrostatic weighing without head submersion in morbidly obese females
+S37	Cytoreductive surgery in disseminated nonseminomatous germ cell tumours of testis
+S38	Subcutaneous sumatriptan in the treatment of headache during withdrawal from druginduced headache
+S39	Trend toward nonoperative management of splenic injuries
+S40	Cord transferrin and ferritin values in newborn infants at risk for prenatal uteroplacental insufficiency and chronic hypoxia
+S41	The management of malignant strictures of the bile duct
+S42	Family practice patients perception of symptoms
+S43	Pimper pimped letter comment
+S44	New sleep disorder letter
+S45	Leukocyte migration in synovial tissue Leukocyte distribution orientation and migratory pattern after immune complex deposition in rabbit knee joints
+S46	Rhinoplasty a humbling experience
+S47	Low molecular weight heparins and hypoaldosteronism
+S48	Detection of antiCD4 autoantibodies in the sera of HIVinfected patients using recombinant soluble CD4 molecules
+S49	The efficacy and clinical impact of brain imaging in neurologically symptomatic AIDS patients a prospective CTMRI study
+S50	Gilles de la Tourettes syndrome in monozygotic twins letter
+S51	In vitro fertilization fertilization failure due to toxic catheters
+S52	Handheld myometry reference values
+S53	A new rigid bronchoscope for laser fiber application
+S54	Perforation of the terminal ileum with cytomegalovirus vasculitis and Kaposis sarcoma in a patient with acquired immunodeficiency syndrome
+S55	Lateral decompression of a pathological disc in the treatment of lumbar pain and sciatica
+S56	Bacterial colonization of intravascular catheters and anergy to recall skin antigens
+S57	Percutaneous dilation of ureteral strictures in renal transplant patients
+S58	Changes in ventilatory muscle function with negative pressure ventilation in patients with severe COPD
+S59	Disparate urinary catecholamine patterns in secondary hypertension due to unique sequential development of pheochromocytoma and neuroblastoma
+S60	Precise insertion of antibiotic resistance determinants into Tn21like transposons nucleotide sequence of the OXA1 betalactamase gene
+S61	Human fetal hepatocytes respond to inflammatory mediators and excrete bile
+S62	AIDS and traditional health beliefs and practices of black women see comments
+S63	Treatment of severe peptic esophageal stricture with RouxenY partial gastrectomy vagotomy and endoscopic dilation A followup study see comments
+S64	From the Centers for Disease Control Chronic disease reports deaths from colorectal cancerUnited States 1986
+S65	The efficacy of presacral neurectomy for the relief of midline dysmenorrhea
+S66	Tracheoesophageal anastomosis for intractable aspiration pneumonia
+S67	Cartilage proteoglycan depletion in acute and chronic antigeninduced arthritis
+S68	Qualifications of the provider
+S69	Direct stimulation of enzyme secretion from rat exocrine pancreas by neurotensin and its naturally occurring fragments
+S70	Inguinal herniation justifies sigmoidoscopy
+S71	Effectiveness of penicillin G benzathine therapy for primary and secondary syphilis in HIV infection letter
+S72	The tooth of the dog that bit him
+S73	Drowning mortality in Los Angeles County letter comment
+S74	Bone marrow in HIV infection A comparison of fluorescent staining and cultures in the detection of mycobacteria
+S75	Alternative approaches to receiver operating characteristic analyses editorial
+S76	A randomized trial of chemotherapy followed by pelvic radiation therapy in stage IIIB carcinoma of the cervix
+S77	Capsular polysaccharide of Haemophilus influenzae type b Hib PS is a mitogen for murine B cells letter comment
+S78	Adult foregut duplication
+S79	Human sperm selection by glass wool filtration and twolayer discontinuous Percoll gradient centrifugation
+S80	Intracellular ion content of skeletal muscle measured by instrumental neutron activation analysis
+S81	Muscle atrophy in rheumatoid arthritis
+S82	Intraoperative collapse or death related to the use of acrylic cement in hip surgery see comments
+S83	Visualization of patent foramen ovale by transesophageal colorcoded Doppler echocardiography
+S84	Selfevaluation for nursing students
+S85	Effects of the calcium antagonist nilvadipine on focal cerebral ischemia in spontaneously hypertensive rats
+S86	Schistosomiasis vaccine letter
+S87	The relation between resource use and inhospital mortality for patients with acquired immunodeficiency syndromerelated Pneumocystis carinii pneumonia
+S88	Shortterm primary culture of epithelial cells from human colon editorial
+S89	Endoureteropyelotomy percutaneous treatment of ureteropelvic junction obstruction
+S90	Sleep studies in benign epilepsy of childhood with rolandic spikes I Sleep pathology
+S91	Metabolizable energy in humans in two diets containing different sources of dietary fiber Calculations and analysis
+S92	Pneumonia during pregnancy has modern technology improved maternal and fetal outcome
+S93	Primary ovarian transitional cell carcinoma Diagnostic and prognostic considerations comment
+S94	Antibiotic prophylaxis in acute nonperforated appendicitis The Danish Multicenter Study Group III
+S95	Effects of acidosis on ventricular muscle from adult and neonatal rats
+S96	The effect of neutrophil depletion on reperfusion arrhythmias during intracoronary thrombolysis using the leukocyte removal filter
+S97	Standards for halothanecaffeine contracture test editorial
+S98	Pseudopneumothorax a migratory mirage letter
+S99	Pharmacokinetic properties of the antiglucocorticoid and antiprogesterone steroid RU 486 in man
+S100	Primary mesenteric liposarcoma
+S101	The perurethral technique for ultrasound directed follicle aspiration in an invitro fertilization and embryo transfer programme a report of 636 patient cycles
+S102	Human Tcell lymphotropic virus type III HTLVIII infection how it can affect you your patients and your anesthesia practice
+S103	Mechanism of mitral valve area increase by in vitro single and double balloon mitral valvotomy
+S104	Trauma score versus revised trauma score in TRISS to predict outcome in children with blunt trauma
+S105	How useful are combinations of blood tests in rheumatic panels in diagnosis of rheumatic diseases
+S106	Elevated mononuclear leukocyte phosphodiesterase in allergic dogs with and without airway hyperresponsiveness
+S107	Bleeding time prolongation and bleeding during infusion of recombinant tissuetype plasminogen activator in dogs potentiation by aspirin and reversal with aprotinin
+S108	Detection of B and Tcells in paraffinembedded tissue sections Diagnostic utility of commercially obtained 4KB5 and UCHL1
+S109	Is behavioral modification a sufficient criterion of the effectiveness of decision analysis letter
+S110	The colour centre in the cerebral cortex of man
+S111	Immunologic studies in identical twins concordant for juvenile rheumatoid arthritis but discordant for monoclonal gammopathy and amyloidosis
+S112	Dermal flaps to reconstruct the vagina letter
+S113	Antibodies to ADPATP carrieran autoantigen in myocarditis and dilated cardiomyopathyimpair cardiac function
+S114	BAL in asbestosis letter
+S115	Intraduct enterokinase is lethal in rats with experimental bilesalt pancreatitis
+S116	The asymptomatic child a long time after the Mustard operation for transposition of the great arteries
+S117	Current status of functional lower extremity surgery in adult spastic patients
+S118	Hydrocephalus and cavernoma of the cauda equina
+S119	Inadvertent dislodgement of nasoenteral feeding tubes incidence and prevention
+S120	Communicating with patients who have psychiatric problems
+S121	Early vascular changes in rabbit subchondral bone after repetitive impulsive loading
+S122	Traumatic diaphragmatic hernia and intestinal obstruction due to penetrating trunk wounds
+S123	Low expression of lymphocyte functionassociated antigen LFA1 and LFA3 adhesion molecules is a common trait in Burkitts lymphoma associated with and not associated with EpsteinBarr virus
+S124	Adrenergic receptors and sensitization of adenylyl cyclase in acute myocardial ischemia
+S125	Serum concentrations of insulinlike growth factor IGF1 IGF2 and unsaturated somatomedin carrier proteins in children with chronic renal failure
+S126	ErdheimChester disease A report of three cases
+S127	The case of the gray optic disc
+S128	Psych care and malpractice analyze the risks
+S129	Bilateral fractures of the tibia a severe injury associated with multiple trauma
+S130	Classification of epilepsies and epileptic syndromes in two different samples of patients
+S131	Acute parkinsonism associated with flurbibrofen
+S132	Bilateral occlusion of the trunk of the middle cerebral artery Results of an international randomized trial The ECIC Bypass Study Group
+S133	Progress in the classification of severe combined immunodeficiency letter
+S134	Coronary excimer laser angioplasty reduced complications and indium111 platelet accumulation compared with thermal laser angioplasty
+S135	CO2welded venous anastomosis enhancement of weld strength with heterologous fibrin glue
+S136	Segregation of functionally distinct axons in the monkeys optic tract
+S137	Hormone replacement therapy and survival after surgery for ovarian cancer see comments
+S138	Organic chemistry New routes to natural products news
+S139	Cardiac lymphoma in a patient with AIDS
+S140	Risks of radiosurgery letter
+S141	Medical management of AIDS
+S142	Hepatocellular carcinoma comparison of clinical features among ethnic groups in an area of low prevalence
+S143	Successful vascular reconstruction after inadvertent femoral artery stripping
+S144	Occupational disease statistics In perspective editorial
+S145	Possible deleterious effects of sound or vibratory fetal stimuli letter
+S146	Histopathologic study of ocular changes in a syndrome of multiple congenital anomalies
+S147	The hyperimmunoglobulinaemia E and recurrent infections syndrome in an adult published erratum appears in Thorax 1990 Dec4512984 see comments
+S148	Sample size considerations in vaccine trials
+S149	Ultrastructural changes in renal tubules associated with glomerular bleeding
+S150	Geotrichosis who is susceptible letter
+S151	Water treatment of hydrotherapy exercise pools
+S152	Multiple pregnancy and assisted reproduction letter
+S153	Followup evaluation of prenatally recognized vesicoureteric reflux
+S154	Understanding the molecular basis of coeliac disease
+S155	General practitioners responsibilities letter
+S156	Inhibition of endogenous superoxide dismutase with diethyldithiocarbamate in acute island skin flaps
+S157	Motion artifact reduction in MR imaging of the abdomen gradient moment nulling versus respiratorysorted phase encoding
+S158	Management of difficult basilar artery aneurysms letter comment
+S159	Quantitative dualenergy radiographic absorptiometry of the lumbar spine in vivo comparison with dualphoton absorptiometry
+S160	Spinal cord necrosis and paraplegia as complications of the intraaortic balloon
+S161	A simple classification system for mammographic reporting
+S162	Meningococcal endophthalmitis without concomitant septicemia or meningitis
+S163	Medical therapy for chronic congestive heart failure see comments
+S164	Some long term effects of smoking on the haemostatic system a report from the Caerphilly and Speedwell Collaborative Surveys
+S165	Cochlear nerve injuries caused by cerebellopontine angle manipulations An electrophysiological and morphological study in dogs
+S166	Ascorbic acid and ferritin catabolism
+S167	Taxable volume fell during first half
+S168	The Tri Council for Nursing 15 years of fruitful cooperation
+S169	New approach to disturbances in the plasma sodium concentration
+S170	Effect of opposite changes in cardiac output and arterial PO2 on the relationship between mixed venous PO2 and oxygen transport see comments
+S171	Theophylline levels after single daily and divided dosing of a onceaday theophylline preparation in asthmatic children
+S172	Keeping up with orthopedic epidemics letter
+S173	Type II hyperlipoproteinemia hyperapobetalipoproteinemia and hyperalphalipoproteinemia following renal transplantation implications for atherogenic risk
+S174	Wegeners autoantigen decoded letter
+S175	Calcium and vitamin D in bone metabolism analyses of their effects with a shortterm in vivo bone model in rats
+S176	Computer simulation of respiratory impedance and flow transfer functions during high frequency oscillations
+S177	Mercury poisoning letter
+S178	Brief intervention by general practitioners against smoking letter
+S179	Higher cortical disorders an unusual presentation of an arteriovenous malformation
+S180	On the mechanisms underlying 1methyl4phenyl1236tetrahydropyridine neurotoxicity II Susceptibility among mammalian species correlates with the toxins metabolic patterns in brain microvessels and liver
+S181	Ossification of posterior longitudinal ligament of the cervical spine in nonJapanese Asians
+S182	Elderly patients with congestive heart failure under prepaid care
+S183	Psoriasis and the doctor fish letter
+S184	Hepatitis C virus RNA in saliva letter see comments
+S185	National variations in medical practice editorial
+S186	Acute arsenic ingestion
+S187	Morphologic changes in the fine needle aspiration cytology of renal transplants during virus infection as detected by DNA in situ hybridization
+S188	Myoelectrical activity and intraluminal flow in human sigmoid colon
+S189	Primary mucinous carcinoma
+S190	Techniques and results in the management of anal and perianal Crohns disease
+S191	Crypt cell proliferation and HLADR expression in pelvic ileal pouches
+S192	Intrachiasmal hemorrhage a cause of delayed posttraumatic blindness
+S193	Immunization against AIDS in humans letter
+S194	Sequencespecific DNA binding by a short peptide dimer
+S195	Laparoscopic presacral neurectomy Results of the first 25 cases
+S196	Panic attacks buspirone and serotonin function letter comment see comments
+S197	Neuroscience your next center of excellence
+S198	Central serous chorioretinopathy and white subretinal exudation during pregnancy
+S199	Daytoday variation of 24hour intragastric acidity
+S200	Salicylic acid causes a diuresis and natriuresis in normal and common bileductligated cirrhotic miniature swine
+S201	The national AIDS strategy is a start nothing more letter comment see comments
+S202	Minimalmild endometriosis and infertility letter comment
+S203	Platelet activation by plasma lipoproteins
+S204	Cytoplasmic pH determines K conductance in fused renal epithelial cells
+S205	Posterior dislocation of the shoulder associated with obstetric brachial plexus palsy
+S206	Alzheimers disease A psychiatrists perspective
+S207	Cytomegalovirus infections after allogeneic bone marrow transplantation
+S208	Green beliefs letter
+S209	Insulinlike growth factor1 IGF1 in mice reduces weight loss during starvation
+S210	5HT2 receptor antagonists and migraine therapy
+S211	Failure of propranolol to inhibit the epinephrineinduced enhancement of responses to sympathetic nerve stimulation in the rat mesenteric vascular bed
+S212	Susceptibility to cumulative and acute irritant dermatitis An experimental approach in human volunteers
+S213	Postobstruction pulmonary edema
+S214	Physician management key to making DRGs pay
+S215	The clinical value of pharmacologic bronchoprovocation challenge
+S216	Massive hemoperitoneum from transhepatic perforation of the gallbladder a rare complication of cholelithiasis
+S217	The genetics of deafness
+S218	Routine ultrasound screening in management of abdominal aortic aneurysm
+S219	Use of bronchoscopic CO2 laser in palliation of obstruction tracheobronchial malignancy
+S220	How do bacteria cause chronic arthritis editorial
+S221	Molecular basis of inherited disorders of collagen biosynthesis implications for prenatal diagnosis
+S222	Fourth quarter HASMonitrend II data from AHA
+S223	Overweight assessment and management issues
+S224	Helicobacter pylori infection in Meckels diverticula letter comment
+S225	Surgical endoscopy
+S226	Mucocutaneous manifestations of the hemolyticuremic syndrome
+S227	Deoxycholic acid and the pathogenesis of gall stones
+S228	Who should pay for cancer prevention and detection
+S229	Fecal lipid excretion in pancreatic insufficiency letter comment
+S230	Uveal melanoma with opaque media absence of definitive diagnosis before enucleation
+S231	Legal abortion mortality in the United States letter
+S232	Analysis of a mass colorectal cancer screening program for costeffectiveness
+S233	Comparative evaluation of enoxacin ofloxacin ampicillin and chloramphenicol for treatment of experimental Haemophilus influenzae pneumonia
+S234	Unesterified cholesterol in Schnyders corneal crystalline dystrophy
+S235	Altered cellular responses to chemical carcinogens in aged animals
+S236	Anthropology A tale of three cities news
+S237	Confidential unit exclusion CUE is just another test letter
+S238	Mechanisms of granule enzyme secretion from permeabilized guinea pig eosinophils Dependence on Ca2 and guanine nucleotides
+S239	Spontaneous contractions and some electrophysiologic properties of circular muscle from normal sigmoid colon and ulcerative colitis
+S240	Captopril in patients with type II diabetes and renal insufficiency systemic and renal hemodynamic alterations
+S241	Comparison of human menopausal gonadotropin administered once and twice daily in an in vitro fertilization and embryo transfer program
+S242	Stunned left ventricular myocardium after exercise treadmill testing in coronary artery disease
+S243	Hip fracture incidence among the old and very old a populationbased study of 745435 cases
+S244	Analysis of burn injury by digital simulation
+S245	NIH readies plan for cost containment news
+S246	Distribution of bronchial nonspecific reactivity in the general population
+S247	Prophylaxis of venous thromboembolic disease following hip and knee surgery letter
+S248	Contact dermatitis to Loctite 221 and 270
+S249	Mixed falciparum and vivax malaria in Canadian travellers letter published erratum appears in Can Med Assoc J 1989 Oct 11417663
+S250	Efficacy of corticosteroids in suppression of intimal hyperplasia a possible antiangiogenic effect letter comment
+S251	Adverse effects of preoperative hepatic artery chemoembolization for resectable hepatocellular carcinoma a retrospective comparison of 138 liver resections
+S252	Comparison of nicorandil and atenolol in stable angina pectoris
+S253	Does wearing two pairs of gloves protect against skin contamination letter
+S254	Colon and anorectal cancer after pelvic irradiation
+S255	Human growth hormone the Fountain of Youth
+S256	Pterygium inversum unguis
+S257	Oral cancer in India an epidemiologic and clinical review
+S258	Mitral valve prolapse and regurgitation letter
+S259	Cell division promoting activity of naturally occurring dehydrodiconiferyl glucosides do cell wall components control cell division
+S260	Third Annual Nursing Administration Recognition Program Second PlaceHangout visits
+S261	Decreased neonatal serum bilirubin with plain agar a metaanalysis
+S262	Hired help a physicians experiences in a forprofit staffmodel HMO letter
+S263	A modification of operative laparoscopic technique to permit removal of an ectopic pregnancy without morcellation letter comment
+S264	Experience with cyclophosphamide in multiple sclerosis the cons
+S265	Stunned myocardium in hypertrophic cardiomyopathy with normal coronary arteries
+S266	Pregnancy outcome in medically complicated and uncomplicated patients aged 40 years or older
+S267	Accutane letter
+S268	Graphic representations of effect estimates an example from a metaanalytic review letter comment
+S269	Preliminary results of the European Multicenter Trial of UW and EuroCollins solutions in kidney transplantation The Study Group
+S270	Marked eosinophilia in a patient with primary sclerosing cholangitis letter
+S271	Accelerated exocytosis and H2O2 generation in isolated thyroid follicles enhance protein iodination
+S272	Blunt urethral injury results of initial management
+S273	Gemfibrozilinduced impotence letter comment
+S274	Early detection of congenital cardiovascular malformations in infancy
+S275	UVirradiated epidermal cells produce a specific inhibitor of interleukin 1 activity
+S276	Sunlight sunburn and sunscreens Preventing and remedying problems from too much fun in the sun
+S277	The prevalence and treatment needs of subjects with temporomandibular disorders
+S278	Why tuberculosis is not prevented
+S279	Use of extracorporeal membrane oxygenation in the treatment of respiratory syncytial virus bronchiolitis the national experience 1983 to 1988 see comments
+S280	HTLVIII is now HIV letter
+S281	Evaluation of the continuous infusion of etoposide plus cisplatin in metastatic breast cancer A collaborative North Central Cancer Treatment GroupMayo Clinic phase II study
+S282	Lateral gaze palsy due to giant aneurysm of the posterior fossa letter
+S283	Diaphragm genioglossus and triangularis sterni responses to poikilocapnic hypoxia
+S284	Prolongation of cardiac allograft survival by pretransplant administration of cyclosporine and donorspecific dendritic cells
+S285	Is serological evidence of infection with syphilis a contraindication to kidney donation Case report and review of the literature
+S286	Succession planning key to dealing with aging MDs
+S287	Platelet activation and aggregation during cardiopulmonary bypass
+S288	What did our ancestors eat see comments
+S289	Highpermeability pulmonary edema nursing assessment diagnosis and interventions
+S290	Surgical treatment of psoriasis a review including a case report of dermabrasion of hypertrophic psoriatic plaques
+S291	Kinetics of pulmonary leukocyte sequestration in man during hemodialysis with different membranetypes
+S292	In vivo induction of proteins during therapy of hairy cell leukemia with alphainterferon
+S293	Are calculated globulin measurements useful in screening for paraproteinaemia letter
+S294	Effects of EAP followup on prevention of relapse among substance abuse clients
+S295	Total replacement for posttraumatic arthritis of the elbow
+S296	Protective restorative and therapeutic properties of recombinant human IL1 in rodent models
+S297	The teenage coeliac letter comment
+S298	Immunosuppression by cyclosporine in vivo need not block effector Tcell function in mice
+S299	Fluoxetine and elevated plasma levels of tricyclic antidepressants letter comment
+S300	The problematic prospects for prevention in the classroom should alcohol education programs be expected to reduce drinking by youth
+S301	Sudden death and paroxysmal autonomic dysfunction in stiffman syndrome
+S302	Small cell carcinoma of the pancreas and biliary tract
+S303	Dilated cardiomyopathy and myocarditis natural history etiology clinical manifestations and management
+S304	District cancer physicians letter
+S305	Human recombinant IL3 stimulates B cell differentiation
+S306	Nonrandomised controls and assessment of survival in liver transplantation editorial
+S307	Endometriosis treatment with gonadotropinreleasing hormone agonist Buserelin
+S308	Dense metaphyseal bands and growth arrest associated with isotretinoin therapy
+S309	Pituitary gland MR imaging of physiologic hypertrophy in adolescence see comments
+S310	ANP and PRA system response to phlebotomy letter
+S311	Predictors of outcome in cyclosporinetreated recipients of second renal transplants
+S312	OK surgical technology see comments
+S313	Behcets disease
+S314	Cardiovascular adaptations in Andean natives after 6 wk of exposure to sea level
+S315	Obsessivecompulsive disorder a doubleblind placebocontrolled trial of clomipramine in 27 patients
+S316	The association of patients socioeconomic characteristics with the length of hospital stay and hospital charges within diagnosisrelated groups
+S317	Analysis of the traction forces in different skull traction systems
+S318	Peripheral dopamine receptors
+S319	Effects of nifedipine on intracranial pressure in neurosurgical patients with arterial hypertension
+S320	Use of a radon mould technique for skin cancer results from the Peter MacCallum Cancer Institute 19751984
+S321	Peripheral action of spironolactone improvement in arterial elasticity
+S322	Intracoronary stents will they fulfill their promise as an adjunct to angioplasty published erratum appears in J Am Coll Cardiol 1989 Jul141264
+S323	Barretts esophagus in children and young adults Frequent association with mental retardation
+S324	The relationship of antibody levels to the clinical spectrum of human neurocysticercosis
+S325	Project Orbis
+S326	Temporal muscle blood flow in chronic tensiontype headache
+S327	Peptic ulcer disease in the pediatric population
+S328	Rhinovirus infections in Tecumseh Michigan frequency of illness and number of serotypes
+S329	Coronary angioplasty in a patient with dextrocardia see comments
+S330	Changes in plasma free fatty acids and glycerols during prolonged exercise in trained and hypertensive persons taking propranolol and pindolol
+S331	Renal transplantation for children another view see comments
+S332	Permeation of nickel through human skin in vitroeffect of vehicles
+S333	Survival after groin dissection for malignant melanoma
+S334	Molecular neurobiology Separating receptor subtypes from their shadows news
+S335	Outcome of untreated vs treated PKU pregnancies letter
+S336	High potassium concentration improves the rate of acrosome reaction in human spermatozoa
+S337	The prognostic value of cellular and serologic markers in infection with human immunodeficiency virus type 1 see comments
+S338	Early identification of patients at high risk of severe cytomegalovirus disease after renal transplantation using the immediate early antigenemia assay
+S339	Cortisol and loss of malaria immunity in human pregnancy
+S340	Capital costs resurrect healthplanning debate
+S341	Familial hemiplegic migraine a new case
+S342	19Hydroxylation and aromatization of androgens in the developing rat brain
+S343	The Kirschner wire as a readily available tunneling device for the placement of subcutaneous intraspinal narcotic delivery systems letter
+S344	The effect of somatostatin analogue SMS 201995 on pancreatic blood flow
+S345	Detergent disruption of bacterial inner membranes and recovery of protein translocation activity
+S346	Poliovirus vaccine policy Another perspective editorial see comments
+S347	Treatment of Huntingtons disease with clonazepam letter
+S348	Malignant biliary obstruction percutaneous use of selfexpandable stents see comments
+S349	Rapid spontaneous disappearance of an acute extradural hematoma case report
+S350	Elderly wards and their legal guardians analysis of county probate records in Ohio and Washington
+S351	Combined thromboxane A2 synthetase inhibition and receptor blockade are effective in preventing spontaneous and epinephrineinduced canine coronary cyclic flow variations
+S352	Longterm followup after sustained monomorphic ventricular tachycardia Causes pump failure and empiric antiarrhythmic therapy that modify survival
+S353	Weight and age at menarche
+S354	Extracranial metastatic glioblastoma appearance on thallium201chloridetechnetium99mHMPAO SPECT images
+S355	ACCP guidelines for an expert witness letter
+S356	Cardiorespiratory and neurohormonal response to incremental maximal exercise in patients with denervated transplanted hearts
+S357	Osteoporosis letter
+S358	Molecular genetic basis for the antiidiotypic antibody response associated with successful renal allograft survival in humans
+S359	A multidisciplinary program to improve the teaching skills of incoming housestaff
+S360	Massive haemorrhagic necrosis of the liver after liver transplantation
+S361	Reduced portal hypertension by mechanical increase in liver portal blood flow letter comment
+S362	Dysfunctions in public psychiatric bureaucracies
+S363	Intraoperative reinflation of ruptured cystic tumors with a balloon catheter letter
+S364	Effect of dietary ascorbic acid intake on tissue vitamin C in mice
+S365	Is hepatic artery thrombosis after liver transplantation really a surgical complication
+S366	Beta 2microglobulin amyloidosis in a patient treated exclusively by continuous ambulatory peritoneal dialysis
+S367	Cruciate reconstruction using freeze dried anterior cruciate ligament allograft and a ligament augmentation device LAD An experimental study in a goat model
+S368	The role of tympanocentesis in the management of infants with sepsis
+S369	Evaluation of a simple method for measuring blood cholesterol levels using nonlaboratory observers
+S370	Determination of normal transverse mediastinal width and mediastinalwidth to chestwidth MC ratio in control subjects implications for subjects with aortic or brachiocephalic arterial injury
+S371	A longterm prospective clinical study of oral complications during conventional chemotherapy for acute leukemia
+S372	Ethnic variation and maternal risk characteristics among blacksMassachusetts 1987 and 1988
+S373	The transcriptional regulator LevR of Bacillus subtilis has domains homologous to both sigma 54 and phosphotransferase systemdependent regulators
+S374	A hospitalbased study of acute viral infections of the respiratory tract in Thai children with emphasis on laboratory diagnosis
+S375	Smokeless tobacco use and oral epithelial dysplasia
+S376	Changes in abundance or structure of the per gene product can alter periodicity of the Drosophila clock
+S377	arcA dye a global regulatory gene in Escherichia coli mediating repression of enzymes in aerobic pathways
+S378	Biopsy assessment of donor hearts prior to and during transplantation
+S379	Group A betahaemolytic Streptococcus causing disseminated intravascular coagulation and maternal death letter
+S380	Performance appraisal systems in rural western hospitals
+S381	The diagnostic and prognostic value of the treadmill exercise test in the evaluation of chest pain in patients with recent myocardial infarction and in asymptomatic individuals
+S382	Neoplasms of terminally differentiated B lymphocytes
+S383	Endoscopic sclerotherapy versus percutaneous transhepatic obliteration of varices a conceptual approach editorial
+S384	Recombinant betaserineinterferon in hairy cell leukemia compared prospectively with results with recombinant alphainterferon
+S385	Histamine is involved in ethanolinduced jejunal microvascular injury in rabbits
+S386	Chemical burns A tenyear experience
+S387	Polycystic ovaries in childhood editorial
+S388	Monoclonal antibodies to murine CD3 epsilon define distinct epitopes one of which may interact with CD4 during T cell activation
+S389	Degradation of porcine dermal connective tissue by collagenase and hyaluronidase
+S390	Treatment of infected nonunions and segmental defects of the tibia with staged microvascular muscle transplantation and bonegrafting
+S391	Effect on the myocardial energy metabolism of angiotensinconverting enzyme inhibition in chronic heart failure
+S392	Serum 3 alphaandrostanediol glucuronide measurements in sexually mature women with congenital adrenal hyperplasia during therapy
+S393	Parkinsons disease and dementia letter
+S394	Clozapine and norclozapine plasma concentrations and clinical response of treatmentrefractory schizophrenic patients
+S395	An improved method of aqueous paracentesis letter
+S396	Postextrasystolic potentiation worsens fast filling of the hypertrophied left ventricle in aortic stenosis and hypertrophic cardiomyopathy
+S397	Liver transplantation clinical studies
+S398	Histiocytoma cutis a tumour of dermal dendrocytes dermal dendrocytoma
+S399	Prospective payment for medical rehabilitation the DHHS report to Congress
+S400	Aspirin and other antiplatelet agents in the secondary and primary prevention of cardiovascular disease
+S401	Remission induction in refractory Crohns disease using a high calorie whole diet
+S402	The clinical spectrum of granulomatous prostatitis a report of 200 cases
+S403	Unusual childhood uveitis in Tanzania letter
+S404	Intestinal malabsorption in cystic fibrosis
+S405	Glomerular disease in hypercholesterolemic guinea pigs a pathogenetic study
+S406	Interpleural analgesia improves pulmonary function after cholecystectomy
+S407	Altered cellmediated immunity to group A haemolytic streptococcal antigens in chronic plaque psoriasis
+S408	Identification of the human U7 snRNP as one of several factors involved in the 3 end maturation of histone premessenger RNAs
+S409	Prone versus supine thallium myocardial SPECT a method to decrease artifactual inferior wall defects see comments
+S410	Relationship between cardiac output and the endtidal carbon dioxide tension
+S411	Antenatal spontaneous perforation of the extrahepatic biliary tree
+S412	Highdose corticosteroids in patients with the adult respiratory distress syndrome
+S413	Lack of evidence of prolonged human immunodeficiency virus infection before antibody seroconversion
+S414	Human serum amyloid A Three hepatic mRNAs and the corresponding proteins in one person
+S415	Radiological safety gamma camera flood sources
+S416	Why doctors must grapple with health economics editorial
+S417	Renal scarring secondary to vesicoureteric reflux Critical assessment and new grading
+S418	Comparison of three inducement techniques to improve compliance in a health survey conducted by telephone
+S419	A case of septic cavernous sinus thrombosis with sequential dynamic angiographic changes A case report
+S420	Conquering fears and phobias
+S421	Contrasting effects of lovastatin and cholestyramine on lowdensity lipoprotein cholesterol and 24hour urinary mevalonate excretion in patients with heterozygous familial hypercholesterolemia
+S422	Observer variability in histopathological reporting of transitional cell carcinoma and epithelial dysplasia in bladders
+S423	Hepatitis after chronic abuse of senna letter
+S424	Congenital myopathy with type II muscle fiber hypoplasia see comments
+S425	Allelic diversity is generated by intraexon sequence exchange at the DRB1 locus of primates
+S426	CheyneStokes respiration presenting as sleep apnea syndrome Clinical and polysomnographic features
+S427	Vascular lesions in intestinal ischemia induced by cocainealcohol abuse report of a fatal case due to overdose
+S428	Facial pain treated by temporomandibular joint arthroscopy and styloidectomy report of case
+S429	The antinatriuretic and kaliuretic effects of the glucocorticoids corticosterone and cortisol following pretreatment with carbenoxolone sodium a liquorice derivative in the adrenalectomized rat
+S430	Cellspecific transcriptional control of the mouse DNAbinding protein mCEBP
+S431	Metastasis of hepatocellular carcinoma to the proximal jejunum manifested by occult gastrointestinal bleeding
+S432	Development and use of a mathematical twopool model of distribution and metabolism of 335triiodothyronine in a recirculating rat liver perfusion system albumin does not play a role in cellular transport
+S433	Metabolic markers of stressinduced myocardial ischemia
+S434	Cerebral infarction does not occur typically at night
+S435	Comparison of survival in cardiac surgery at a Veterans Administration hospital and its affiliated university hospital
+S436	Oversight letter comment
+S437	Cyclosporin induced hyperuricemia and gout letter
+S438	Antithrombotic agents in coronary artery disease
+S439	Twoyear followup study of coronary bypass surgery Psychologic status employment status and quality of life
+S440	The surgical treatment of aortic regurgitation secondary to aortitis
+S441	Choledochoduodenostomy for benign and malignant biliary tract diseases
+S442	Subacute cutaneous lupus erythematosus lesions precipitated by griseofulvin published erratum appears in J Am Acad Dermatol 1990 Feb222 Pt 2345
+S443	Multiple polyposis coli associated with Gardners syndrome and chromosomal mosaicism a family analysis
+S444	Paediatric glucose homeostasis during anaesthesia
+S445	Infantile sialic acid storage disease associated with renal disease
+S446	People without land
+S447	Changes in sufentanil pharmacokinetics within the neonatal period
+S448	Primary cardiac lymphoma
+S449	Induction of antibodydependent cellular cytotoxicity in vivo by IFNalpha and its antitumor efficacy against established B16 melanoma liver metastases when combined with specific antiB16 monoclonal antibody
+S450	Influence of uremia and hemodialysis on circulating interleukin1 and tumor necrosis factor alpha
+S451	Immunologic influences on reproductive biology sperm gametogenesis and maturation in the male and female genital tracts
+S452	Health professionals in NHS management letter
+S453	Cerebral astrocytomas histopathologic correlation of MR and CT contrast enhancement with stereotactic biopsy
+S454	Urinary digoxinlike immunoreactive substance in pregnancy letter
+S455	Recurrent multiple epidermoid inclusion cysts following rhinoplastyan unusual complication
+S456	The surgical treatment of atrial fibrillation IV Surgical technique
+S457	A new beginning editorial
+S458	Rearrangement of the bacterial chromosome forbidden inversions
+S459	Multiple choice Viral fingerprints are found in the blood of MS patients
+S460	Timedependent regulation of MHC class II antigens on capillary endothelium by TNF
+S461	The future of medical microbiology letter
+S462	Masseter muscle cross over flap in primary closure of oraloropharyngeal defects
+S463	Immunopathology and viral reactivation A general theory of schizophrenia
+S464	Peripheral neuropathy in essential mixed cryoglobulinemia
+S465	Impact of growing numbers of the very old on Medicaid expenditures for nursing homes a multistate populationbased analysis
+S466	Role of sulfhydryls in mucosal injury caused by ethanol relation to microvascular permeability gastric motility and cytoprotection
+S467	Effects of a natural versus artificial environment on the tempo of maturation in female rhesus monkeys
+S468	Echocardiographyguided endomyocardial biopsy A 5year experience
+S469	Silent myocardial ischemia practical application of evolving concepts comment
+S470	Time to be scientific letter comment
+S471	QT interval prolongation and sudden cardiac death in diabetic autonomic neuropathy
+S472	Anticoagulation for noncardiac procedures in patients with prosthetic heart valves Does low risk mean high cost
+S473	Perforation of the gastrointestinal tract following renal transplantation
+S474	Plasma secretin concentrations during normal human pregnancy delivery and postpartum
+S475	Highquality care and hospital profits is there a link
+S476	Investigator differences in the cochlear implantation of children
+S477	Concentration of tumorassociated trypsin inhibitor TATI in pleural effusions
+S478	CT of the stomach and duodenum
+S479	Use of average of normals quality control procedure in the detection and resolution of assay discrepancies
+S480	Continuous renal prosthetic therapy in acute renal failure an overview
+S481	Surfactant abnormalities in patients with respiratory failure after multiple trauma
+S482	The ageing ear A clinicopathological classification
+S483	Causes of presenile cataracts extracted at the Halifax Infirmary Hospital 197685
+S484	Human electrogastrograms comparison of techniques of recording
+S485	Genes for epilepsy mapped in the mouse
+S486	Patterns of physical and sexual abuse of communicatively handicapped children
+S487	Ischemia may be the primary cause of the neurologic deficits in classic migraine see comments
+S488	Production of tumor necrosis factoralpha by Bcell chronic lymphocytic leukemia and hairy cell leukemia cells considerations regarding bone remodeling in the chronic Bcell leukemias letter
+S489	Distribution of cyclic AMP phosphodiesterase in adipose tissue from trained rats
+S490	Will this mans formula revolutionize medicine interview by Michele Robinson
+S491	Modulation of cholinergic neurotransmission by vasoactive intestinal peptide in ferret trachea
+S492	Quinolinicphosphoribosyl transferase activity is decreased in epileptic human brain tissue
+S493	Cyclic AMPan intracellular second messenger for interleukin 1
+S494	Occurrence of unmodified adenine and uracil at the first position of anticodon in threonine tRNAs in Mycoplasma capricolum
+S495	Ruptured renal artery aneurysm in a pregnant uninephric patient successful ex vivo repair and autotransplantation
+S496	Exclusion of linkage between the human apolipoprotein B gene and abetalipoproteinemia published erratum appears in Am J Hum Genet 1990 Jul471172
+S497	Positron emission tomography and histopathology in Picks disease
+S498	A pertussis toxin substrate regulates alpha 1adrenergic dependent phosphatidylinositol hydrolysis in cultured rat myocytes
+S499	Structure of a human pulmonary acinus
+S500	Toxic epidermal necrolysis from griseofulvin letter
+S501	Severe systemic hypertension during pregnancy
+S502	HIV testing letter comment
+S503	Reduplicative paramnesia possible anatomical and neuropsychological mechanisms
+S504	Periventricular intraparenchymal echodensities in the premature newborn critical determinant of neurologic outcome
+S505	AIDS Crisis  what crisis news
+S506	Entrapment of the superficial peroneal nerve Diagnosis and results of decompression
+S507	Bacteriologic study of autotransfusion during liver transplantation
+S508	Control of Bcell proliferation
+S509	Markers for transfusiontransmitted disease in different groups of blood donors see comments
+S510	Caring for older patients with high blood pressure
+S511	An Xp22 microdeletion associated with ocular albinism and ichthyosis approximation of breakpoints and estimation of deletion size by using cloned DNA probes and flow cytometry
+S512	A rapid serum estrogen assay suitable for office use in monitoring follicular maturation
+S513	Catholic hospitals join forces with nonCatholic competitors
+S514	Linkage of Marfan syndrome and a phenotypically related disorder to two different fibrillin genes see comments
+S515	The optimum position of arthrodesis of the ankle A gait study of the knee and ankle
+S516	Absence of EpsteinBarr virus activation in HTLVIassociated tropical spastic paraparesis
+S517	Mobilisation of lead by cisplatin letter
+S518	Technical and clinical testing of a computerized indirect calorimeter for use in mechanically ventilated neonates
+S519	Severe communityacquired pneumonia Etiology prognosis and treatment
+S520	Intrauterine insemination of cryopreserved donor semen
+S521	The computer and clinical decisionsupport systems in primary care comment
+S522	Reversible ataxia following chronic exposure to paradichlorobenzene letter
+S523	Geopathology of early gastric cancer letter comment
+S524	Electrical stimulation effects on cutaneous wound healing in rabbits A followup study
+S525	Sevoflurane anesthesia with adenosine triphosphate for resection of pheochromocytoma
+S526	Serological diagnosis of Salmonella infections letter comment
+S527	Molecular cloning of alpha 5IV collagen and assignment of the gene to the region of the X chromosome containing the Alport syndrome locus
+S528	Bronchial circulation in pulmonary artery occlusion and reperfusion
+S529	Selectivity at the cleavageattachment site of phosphatidylinositolglycan anchored membrane proteins is enzymatically determined
+S530	Paediatric anaesthetists perceptions of neonatal and infant pain
+S531	Damages for stillborn child
+S532	Value of Trucut lung biopsy in focal and diffuse lung disease
+S533	Anesthetic complications in an infant with hyperexplexia
+S534	Treatment of atelectasis of upper lung lobes Selective bronchial suctioning with Jshaped catheter tip and guide mark
+S535	Can reason defeat unreason news
+S536	Legal and ethical pitfalls in family practice psychiatry
+S537	Psychotherapy of schizophrenia letter comment
+S538	Effect of chemotherapy on glioma metabolism letter comment
+S539	United Nations schedules May 31 as fourth World NoTobacco Day news
+S540	Training of health care professionals must change says Pew Commission director
+S541	Posttraumatic syringomyelia the British Columbia experience
+S542	Fellowship programs in critical care medicine 19891990 Compiled and edited by the Society of Critical Care Medicine
+S543	Acute renal failure with glomerular thrombosis in a patient with chronic scleroderma
+S544	Placenta percreta as a cause of uterine perforation during abortion A case report
+S545	Congenital myopathies letter comment
+S546	Preliminary observations on glycerol in spinal cord and root disease
+S547	Effect of complement on the lateral mobility of erythrocyte membrane proteins Evidence for terminal complex interaction with cytoskeletal components
+S548	Fasting plasma caffeine level in cirrhotic patients relation to plasma levels of catecholamines and renin activity
+S549	Comparison of rubidium82 positron emission tomography and thallium201 SPECT imaging for detection of coronary artery disease
+S550	Effects of sublingual administration of nifedipine on arterial pressure plasma renin activity and glomerular filtration rate in essential hypertension
+S551	Humoral cellular and hemodynamic changes induced by bloodmaterial interaction in membrane plasmapheresis
+S552	Pure and mixed mucinous breast carcinomas DNA stemline and prognosis
+S553	Clinical significance of simple heart rateadjusted ST segment depression in supine leg exercise in the diagnosis of coronary artery disease
+S554	Craniofacial trauma an assessment of risk related to timing of surgery
+S555	Cardiac parasympathetic activity during the early hours of acute myocardial infarction
+S556	Clonal mapping of the human aorta Relationship of monoclonal characteristics lesion thickness and age in normal intima and atherosclerotic lesions
+S557	Mutations of the adenylyl cyclase gene that block RAS function in Saccharomyces cerevisiae
+S558	Hepatic microsomal enzyme induction treatment of vitamin D poisoning in a 7 month old baby
+S559	Influence of longterm metoprolol treatment on early and late exercise test performance after acute myocardial infarction
+S560	Rabies virus nucleoprotein expressed in and purified from insect cells is efficacious as a vaccine
+S561	Coronary angioplasty at the time of initial catheterization using small diagnostic catheters
+S562	Sensitivity of digoxigenin and biotin labelled probes for detection of human papillomavirus by in situ hybridisation
+S563	Neutrophils express the high affinity receptor for IgG Fc gamma RI CD64 after in vivo application of recombinant human granulocyte colonystimulating factor
+S564	Adjuvant chemotherapy in clinical stage M0 sarcoma of soft tissue
+S565	The efficacy of indomethacin as a postoperative analgesic following total hip arthroplasty
+S566	Minimizing risks for occupational bloodborne infections
+S567	Lung function in schoolage children who had mild lower respiratory illnesses in early childhood
+S568	Treatment of lymphangioleiomyomatosis A metaanalysis
+S569	Vasculitis as a paraneoplastic syndrome Report of 11 cases and review of the literature
+S570	Low positive end expiratory pressures improve the left ventricular workload versus coronary blood flow relationship
+S571	Modulation of cat motor evoked potential by prior cerebellar or somatosensory stimulation
+S572	The last nurse
+S573	Abnormalities of fatty acid oxidation editorial
+S574	Myocardial infarction prognostic scoring system
+S575	Problems in the definition and treatment of early gastric cancer
+S576	Alkaline phosphatase levels in renal transplant recipients receiving cyclosporin or azathioprinesteroids letter
+S577	The role of leucocyte elastase in malignant tumors of the head and neck
+S578	Suitability of liquidstored donor platelets in platelet compatibility testing
+S579	Radiological case of the month Bronchial compression and ventilatory dysfunction in scoliosis
+S580	Elevated plasma atrial natriuretic peptide levels in diabetic rats Potential mediator of hyperfiltration
+S581	Ocular and orbital tumors
+S582	Gallo concedes contamination again news
+S583	Hightech predicament pulmonary artery catheter editorial comment
+S584	HLAB7 and HLADR2 antigens and acute posterior multifocal placoid pigment epitheliopathy
+S585	MSG and hydrolyzed vegetable protein induced headache review and case studies
+S586	Ureteral ectopia presenting as epididymitis and infertility
+S587	Disparity curvature and the perception of threedimensional surfaces
+S588	Induction of calcium currents by the expression of the alpha 1subunit of the dihydropyridine receptor from skeletal muscle
+S589	Mental status changes induced by eye drops in dementia of the Alzheimer type letter
+S590	Drug treatment of moderate hypercholesterolemia letter
+S591	Rapid enhancement of beta 2interferonBcell differentiation factor BSF2 gene expression in human fibroblasts by diacylglycerols and the calcium ionophore A23187
+S592	Allergic contact dermatitis from eosin
+S593	The bleeding severity index validation and comparison to other methods for classifying bleeding complications of medical therapy
+S594	Gallbladder cholesterolosis an aetiological factor in acute pancreatitis of uncertain origin
+S595	Tonic cardiovascular effects of angiotensin II in the ventrolateral medulla
+S596	The third component of complement is transcribed and secreted by cultured human endothelial cells
+S597	Cancer surveillance after augmentation mammoplasty letter
+S598	Bronchoscopy and infection control letter
+S599	Ethics and cancer a survey of the literature
+S600	Results of the Prospective Evaluation of Radial Keratotomy PERK Study 4 years after surgery for myopia Perk Study Group see comments
+S601	When is emergency baptism appropriate
+S602	Normal and hydronephrotic kidney evaluation of renal function with contrastenhanced MR imaging
+S603	Spontaneous subclavian vein thrombosis a successful combined approach of local thrombolytic therapy followed by firstrib resection
+S604	Lung collagen more than scaffolding
+S605	Sex differences in high density lipoprotein cholesterol among lowlevel alcohol consumers published erratum appears in Circulation 1991 Apr8341461
+S606	Topical Bactroban mupirocin efficacy in treating burn wounds infected with methicillinresistant staphylococci
+S607	The increasing importance of a cardiovascular society
+S608	Mortality differentials among persons born in Cuba Mexico and Puerto Rico residing in the United States 197981
+S609	Alcohol exposure in utero results in diminished Tcell function and alterations in brain corticotropinreleasing factor and ACTH content
+S610	Health promotion for children Key to a lifetime of health
+S611	Differential effect of aluminum on the bloodbrain barrier transport of peptides technetium and albumin
+S612	Mortality rates from multiple sclerosis geographical and temporal variations revisited
+S613	Clinicopathologic types of epidermolysis bullosa and their nondermatological complications
+S614	Warts and diagnosis of sexual abuse letter
+S615	Malignant granular cell tumor
+S616	Mucobilia an unusual cause of jaundice
+S617	Defects in betacell function and insulin sensitivity in normoglycemic streptozocintreated baboons a model of preclinical insulindependent diabetes
+S618	Long term pathological sequelae of neonatal endotracheal intubation
+S619	A comparative study of intravenous urograms and radionuclide renal scans in diagnosis of renal trauma
+S620	Precocious and premature puberty associated with treatment of acute lymphoblastic leukaemia
+S621	Medicare cost report needs major overhaul
+S622	The National Reference System for Cholesterol
+S623	Combined effect of exercise and ambient temperature on insulin absorption and postprandial glycemia in type I patients
+S624	Congenital malignant melanoma
+S625	Clinical experience with biliary extracorporeal shock wave lithotripsy
+S626	MR imaging artifacts ferromagnetism and magnetic torque of intravascular filters stents and coils
+S627	Jejunostomy or gastrostomy Why the choice is clear for the physically and mentally incapacitated
+S628	What is the health impact of day care attendance on infants and preschoolers
+S629	Bronchiolitis obliterans organizing pneumonia and Sjogrens syndrome
+S630	Comprehensive review of morbidity and mortality trends for rheumatic fever streptococcal disease and scarlet fever the decline of rheumatic fever
+S631	Pregnancies following pronuclear stage tubal transfer
+S632	Immediate and longterm results of carotid endarterectomy
+S633	Experience with digoxin immune Fab ovine in patients with renal impairment
+S634	Traumatic dislocation of the hip
+S635	Saturating the region of the polycystic kidney disease gene with NotI linking clones published erratum appears in Am J Hum Genet 1991 May4851017
+S636	The concept of migraine as a state of central neuronal hyperexcitability
+S637	Adrenal hemangioblastoma in Von HippelLindau disease as a cause of secondary erythrocytosis
+S638	Assessment of iron stores in hospitalized patients letter comment
+S639	The impact of technique and conditions of the tympanic membrane upon infrared tympanic thermometry
+S640	UGI studies radiologic vs endoscopic letter
+S641	Tricyclic antidepressant overdose pharmacology and treatment
+S642	Bacteriuria in black infants letter
+S643	Comparison of the effects of lung cancer benign lung disease and normal aging on pituitarygonadal function in men
+S644	Therapeutic plasmapheresis for liver failure after hepatectomy
+S645	Malignant peripheral nerve sheath tumors of the skin comment
+S646	Estimation of population denominators for public health studies at the tract gender and agespecific level
+S647	Omeprazole campylobacter pylori and duodenal ulcer letter comment see comments
+S648	Epidemiology of severe myoclonic epilepsy of infancy
+S649	Cardiovascular anomalies associated with prenatal exposure to theophylline
+S650	Circadian variation of pain sensitivity in pericranial musculature
+S651	Demonstration of an unusual allelic variation of mouse factor H by the complete cDNA sequence of the H2 allotype
+S652	Peripheral vascular disease Treatment with balloon angioplasty
+S653	Role of surgery in infective endocarditis
+S654	KearnsSayre syndrome hypoparathyroidism and basal ganglia calcification letter
+S655	GAL4 transcription factor is not a zinc finger but forms a ZnII2Cys6 binuclear cluster
+S656	A doubleblind randomized controlled trial of ketotifen versus placebo in early diffuse scleroderma
+S657	Problems with surveillance methods for alcoholism differences in coding systems among federal state and private agencies
+S658	Focal brain radiotherapy editorial
+S659	Finding the antioncogene
+S660	When to publish pseudoscience
+S661	The quality of laboratory staff and the accuracy of results letter
+S662	Videoendoscopic evaluation of patients with dysphagia an adjunct to the modified barium swallow
+S663	Coping with diagnosis related groups The changing role of the nursing home
+S664	Longterm cognitive sequelae of acyclovirtreated herpes simplex encephalitis
+S665	Mortality among the elderly in the Alameda County Study behavioral and demographic risk factors published erratum appears in Am J Public Health 1987 Jul777818
+S666	Transurethral resection and intravesical therapy of superficial bladder tumors
+S667	Examination of motor function in lesions of the spinal cord by stimulation of the motor cortex
+S668	Early combination of bromocriptine and levodopa in the treatment of Parkinsons disease a 5year followup
+S669	Risk of fetal chromosomal anomalies in patients with elevated maternal serum alphafetoprotein
+S670	Pharmacokinetics of rilmenidine
+S671	Activation of the inflammatory response of neutrophils by TammHorsfall glycoprotein
+S672	Peak filling rate normalized to mitral stroke volume a new Doppler echocardiographic filling index validated by radionuclide angiographic techniques
+S673	Mathematic models to assess platelet kinetics letter
+S674	Potential gene therapy for AIDS described news
+S675	Differential diagnosis of hereditary nonpolyposis colorectal cancer Lynch syndrome I and Lynch syndrome II
+S676	Incidental adenocarcinoma after open prostatic adenectomy
+S677	Doppler echocardiographic evaluation of tiltingdisc prosthetic heart valves in children
+S678	The resection of orbicularis oculi muscle from the upper eyelid in experimental surgery on the monkey
+S679	The efficacy of the addition of nifedipine in patients with mixed angina compared to patients with classic exertional angina a multicenter randomized doubleblind placebocontrolled clinical trial
+S680	Quantitative sensory testing before and after regional guanethidine block in patients with neuralgia in the hand
+S681	Baseline transepidermal water loss TEWL as a prediction of susceptibility to sodium lauryl sulphate
+S682	Physiologic testing of the ultraendurance triathlete
+S683	CTMR correlation in the evaluation of tracheobronchial neoplasia
+S684	Morphology of occlusive coronary lesions during acute myocardial infarction an angiographic and clinical analysis
+S685	Prevalence of stroke in the Parsi community of Bombay
+S686	Plaque modification with tetracycline enhanced tissue ablation with the excimer laser
+S687	Prostaglandin synthesis and response to alcoholism treatment
+S688	Flowcytometric detection of human antirat insulinoma antibodies in relation to antihuman islet cell and antiinsulin antibodies Recognition of distinct antigens by antibodies in early type I diabetes
+S689	Prostatectomy in the over 80yearold see comments
+S690	Thromboxane B2 levels in serum during continuous administration of nimodipine to patients with aneurysmal subarachnoid hemorrhage
+S691	Chronic diuretic therapy with moderate doses of triamterene is not associated with folate deficiency
+S692	Fetal blood sampling from the intrahepatic vein for rapid karyotyping in the second and third trimesters
+S693	Localized cerebral infarction in the premature infant an ultrasound diagnosis correlated with computed tomography and magnetic resonance imaging
+S694	Crossreactions between aminoside antibiotics
+S695	The effect of sensory deprivation in the reduction of pain in patients with chronic lowback pain
+S696	Risk of aortic valve surgery editorial
+S697	Umbilical lesion in a young child Omphalomesenteric duct OMD polyp
+S698	Neutrophil chemotaxis and adherence in vitro and localization in vivo in rabbits with Staphylococcus aureus abscesses
+S699	Increased survival of low birth weight infants impact on the incidence of retinopathy of prematurity
+S700	Ciguatera fish poisoning
+S701	Immunoglobulin deposition in the cornea after application of autologous serum
+S702	Screening for colorectal cancer in a highrisk population Results of a mathematical model
+S703	Human milk vitamin content after pasteurisation storage or tube feeding
+S704	In vivo neurotransmitter levels in the anterior pituitary of freely behaving intact and castrated male rats determined with pushpull perfusion and high pressure liquid chromatography coupled with electrochemical detection
+S705	Definition of the chronic fatigue syndrome letter
+S706	One week of monitoring of portal and hepatic arterial blood flow after liver transplantation using implantable pulsed Doppler microprobes
+S707	Renal transplantation in lupus erythematosus letter comment
+S708	Congress considers upgrading labs news
+S709	Allergens involved in occupational asthma caused by babys breath Gypsophila paniculata
+S710	Inflammatory presentations of congenital head and neck masses
+S711	Transforming growth factorbeta 1 TGFbeta 1 and recombinant human tumor necrosis factoralpha reciprocally regulate the generation of lymphokineactivated killer cell activity Comparison between natural porcine plateletderived TGFbeta 1 and TGFbeta 2 and recombinant human TGFbeta 1
+S712	Counsellors in general practice editorial
+S713	Antiproliferative effect of trapidil a plateletderived growth factor antagonist on a glioma cell line in vitro
+S714	A double ballooned inflatable and collapsible T tube for selective proximal or distal cholangiography
+S715	14Curea breath test for C pylori letter comment
+S716	Which patient did Gallos virus come from news
+S717	Human platelet osteonectin release surface expression and partial characterization
+S718	Correlation of emergency health care use 911 volume and jail activity with welfare check distribution
+S719	Clinical death symposium editorial
+S720	Fracture of the hyoid bone
+S721	Deaths from Rh haemolytic disease in England and Wales in 1984 and 1985
+S722	A protocol for pediatric IV meds
+S723	Organ manifestations in 100 patients with progressive systemic sclerosis a comparison between the CREST syndrome and diffuse scleroderma
+S724	Hepatic bile nucleation and gallstone disease letter
+S725	Evaluation of normal gestational sac growth appearance of embryonic heartbeat and embryo body movements using the transvaginal technique
+S726	Thrombin regulation of platelet interaction with damaged vessel wall and isolated collagen type I at arterial flow conditions in a porcine model effects of hirudins heparin and calcium chelation
+S727	Priority of peak circadian variation of bronchial responsiveness to the trough of circadian variation of bronchial caliber in asthmatic children
+S728	Pulmonary arterybronchus ratios in patients with normal lungs pulmonary vascular plethora and congestive heart failure
+S729	Analysis at the clonal level of Tcell phenotype and functions in severe aplastic anemia patients
+S730	Straddling mitral valve with hypoplastic right ventricle crisscross atrioventricular relations double outlet right ventricle and dextrocardia morphologic diagnostic and surgical considerations
+S731	Cortisol stimulation of estradiol and progesterone secretion by human granulosa cells is independent of folliclestimulating hormone effects
+S732	Circadian variations of plasma atrial natriuretic peptide in four types of hypertensive disorder during pregnancy
+S733	Evaluation of two commercially available test methods to determine the feasibility of testing for respiratory syncytial virus in a community hospital laboratory
+S734	Carcinoma in situ of penis Is distinction between erythroplasia of Queyrat and Bowens disease relevant
+S735	The endoscopic correction of reflux by polytetrafluoroethylene injection
+S736	Osteogenesis imperfecta A model for genetic causes of osteoporosis and perhaps several other common diseases of connective tissue
+S737	Mobile knee reconstructions after resection of malignant tumors of the distal femur
+S738	Cell metabolism in patients undergoing major valvular heart surgery relationship with intra and postoperative hemodynamics oxygen transport and oxygen utilization patterns
+S739	HMGCoA reductase inhibitors for hypercholesterolemia letter
+S740	Gastrinoma in vitro morphological and physiological studies of primary cell cultures
+S741	OKT3 and pulmonary capillary permeability
+S742	Effect of betahydroxybutyrate on wholebody leucine kinetics and fractional mixed skeletal muscle protein synthesis in humans
+S743	Basaloid monomorphic adenomas
+S744	Delta hepatitis in homosexual men in the United States
+S745	Electrohydraulic lithotripsy in the ureter
+S746	Relationships between blockoftwitch and trainoffour fade in the mouse phrenic nervediaphragm preparation
+S747	Electromagnetically generated extracorporeal shockwaves for fragmentation of extraand intrahepatic bile duct stones indications success and problems during a 15 months clinical experience
+S748	Circle of Willis blood flow patterns in healthy newborn infants
+S749	A potential animal model for LeschNyhan syndrome through introduction of HPRT mutations into mice
+S750	Race and Apgar scores letter comment
+S751	Using an executive search firm editorial
+S752	The blood supply of the osteocutaneous free fibular graft
+S753	Developments like major resection bone allografts foster progress in tissuebanking technology news
+S754	Wegeners granulomatosis Immunomicroscopic and ultrastructural study of four cases see comments
+S755	Regulation of transcription Fraudulent promotion news published erratum appears in Nature 1988 Apr 73326164487
+S756	Values and science curricula letter
+S757	Casein expression in cytotoxic T lymphocytes
+S758	Effect of external cephalic version in late pregnancy on presentation at delivery a randomized controlled trial
+S759	Vasopressin increases cytosolic free Ca2 in the neonatal rat cardiomyocyte Evidence for V1 subtype receptors
+S760	Tcell receptor crosslinking transiently stimulates adhesiveness through LFA1
+S761	Immunoregulation in the Peyers patch microenvironment Cellular basis for the enhanced responses by the B cells of Xlinked immunodeficient CBAN mice
+S762	Parathyroid hormone and myocardial performance in dialysis patients
+S763	Pediatric emergencies letter comment
+S764	Potassium and blood pressure regulation
+S765	Epileptic seizures in intracerebral haemorrhage
+S766	Advantage of discrepant upper rate limits in a DDDR pacemaker
+S767	Vaginal birth after cesarean section an appraisal of the reappraisal letter comment
+S768	A prospective randomized clinical trial of heparin therapy for postoperative intraocular fibrin
+S769	Effect of FK506 in experimental organ transplantation
+S770	Arrogance revisited letter comment
+S771	Postmortem changes in ultrastructures of the mouse intervertebral disc
+S772	A neuropsychological study of active amateur boxers
+S773	Immunosuppressive mode of action of deoxyspergualin in mice as compared with cyclosporine A and mizoribine
+S774	External iliac artery occlusion by bicycle handle injury
+S775	Mortality in patients on liver transplant waiting lists an avoidable tragedy
+S776	Analysis of auditory comprehension performance in individuals with severe aphasia
+S777	Characterization and biological activity of a rat monoclonal antibody to rathuman corticotropinreleasing factor
+S778	HLA class II profile of a human carcinoma cell line detection on genomic level and after exposure to gammainterferon
+S779	Acute stroke therapy trials an introduction to recurring design issues
+S780	Effects of resistive exercise on skeletal muscle in marrow transplant recipients receiving total parenteral nutrition
+S781	Inhibitory effects of the new PAF acether antagonist WEB2086 on pharmacologic changes induced by PAF inhalation in human beings
+S782	Diaphragmatic rupture due to blunt trauma sensitivity of plain chest radiographs letter comment
+S783	Etiology diagnosis and treatment of bacteremia
+S784	A new role for folliclestimulating hormone in the regulation of calcium flux in Sertoli cells inhibition of NaCa exchange
+S785	Norepinephrine infusions increase adenylate cyclase responsiveness in brown adipose tissue
+S786	Hemodynamic effects of rapidly evacuating prolonged pneumothorax in rabbits
+S787	Purification and characterization of intraparenchymal lung lymphocytes
+S788	Pacemaker syndrome in activityresponsive VVI pacing
+S789	RTA a candidate G proteincoupled receptor cloning sequencing and tissue distribution
+S790	Physiological localization of an agonistsensitive pool of Ca2 in parotid acinar cells
+S791	Thromboxane synthetase inhibition decreases polymorphonuclear leukocyte activation following hindlimb ischemia
+S792	Deleading dilemma pitfall in the management of childhood lead poisoning
+S793	Completion thyroidectomy for thyroid carcinoma
+S794	Partial resistance to anticoagulation after streptokinase treatment for acute myocardial infarction
+S795	Effort rupture of the diaphragm
+S796	The effect of fetal mesencephalon implants on primate MPTPinduced parkinsonism Histochemical and behavioral studies see comments
+S797	Serum osteocalcin in Pagets disease of bone basal concentrations and response to bisphosphonate treatment
+S798	Radioimmunoassay of growth hormonedependent insulinlike growth factor binding protein in human plasma
+S799	Muscle perfusion and oxygenation during local hyperoxia
+S800	Physician reimbursement reform and family physicians
+S801	Common dopaminergic mechanism for epileptic photosensitivity in progressive myoclonus epilepsies see comments
+S802	Frameshift mutation near the 3 end of the COL1A1 gene of type I collagen predicts an elongated Pro alpha 1I chain and results in osteogenesis imperfecta type I published erratum appears in J Clin Invest 1990 Apr854following 1338
+S803	Methods for the detection of Jk heterozygotes interpretations and applications
+S804	Dermal surface morphology in wound healing An experimental scanning electron microscope study
+S805	Effect of timing of cerebral ultrasonography on the prediction of later neurodevelopmental outcome in highrisk preterm infants
+S806	Modulation of lymphatic pumping by lymphborne factors after endotoxin administration in sheep
+S807	Estrogen receptor distribution in enucleated breast cancer cell lines
+S808	Total body water estimated by measuring totalbody electrical conductivity
+S809	Lung cancer in patients with head and neck cancer Incidence and longterm survival
+S810	Lovastatin an inhibitor of cholesterol synthesis induces hydroxymethylglutarylcoenzyme A reductase directly on membranes of expanded smooth endoplasmic reticulum in rat hepatocytes
+S811	Extrapulmonary lymphomatoid granulomatosis letter comment
+S812	Vulvovaginitis and cervicitis
+S813	Virusinduced immunosuppression a murine model of susceptibility to opportunistic infection
+S814	Safe and simple needle recapping letter
+S815	Nitrogen absorption in pancreatectomized patients protein versus protein hydrolysate as substrate
+S816	A molecular mechanism of inhibition of HIV1 binding to CD4 cells by monoclonal antibodies to gp110
+S817	Enzymatic estimation of the extent of irreversible myocardial injury early after reperfusion
+S818	Postoperative mediastinal radiation for cancer of the lung letter
+S819	Changes in human plasma catecholamine concentrations during epidural anesthesia depend on the level of block
+S820	Trends in fatty acid intakes of 10yearold children 1973 to 1982
+S821	Predictive accuracy of electrophysiologic localization of accessory pathways
+S822	Familial hypertrophy of masticatory muscles
+S823	Safety of peripheral vascular surgery after recent acute myocardial infarction letter comment
+S824	Effect of quinolones on caffeine disposition
+S825	Asymmetric proliferative diabetic retinopathy and carotid artery disease
+S826	Comparison of rDNA and mtDNA in the sibling species Anopheles freeborni and A hermsi
+S827	Molecular mapping of OspA mediated immunity against Borrelia burgdorferi the agent of Lyme disease
+S828	Effect of age on changes in flow rates and airway conductance after a deep breath
+S829	Death and functional outcome after spontaneous intracerebral hemorrhage A prospective study of 166 cases using multivariate analysis see comments
+S830	Mumpsinduced opsoclonusmyoclonus and ataxia
+S831	Donor seropositivity and prednisolone therapy as risk factors for cytomegalovirus infection and disease in cyclosporintreated renal allograft recipients
+S832	Unusual opioid withdrawal syndrome A casereport
+S833	Presence of HBV DNA and HBeAg in serum of an antiHBspositive individual letter
+S834	Zinc effects on nickel dermatitis in the guinea pig
+S835	Cloning and characterization of the isopenicillin N synthase gene of Streptomyces griseus NRRL 3851 and studies of expression and complementation of the cephamycin pathway in Streptomyces clavuligerus
+S836	Molecular genetics A gene for Wilms tumour news
+S837	Standardized terminology for hispanic populations
+S838	Total body water estimated by measuring totalbody electrical conductivity
+S839	Treatment of narcolepsy with Ltyrosine
+S840	To publish or not to publish letter comment
+S841	Topical drugs for vaginal candidiasis
+S842	Time of extubation in patients who underwent thoracotomy letter
+S843	Health care needs of Central American refugees
+S844	A model of methods for influencing prescribing Part II A review of educational methods theories of human inference and delineation of the model
+S845	Author and subject index volume 45 1990
+S846	Role of cyclosporin A in macromolecular synthesis of betacells
+S847	Thymoxamine reverses phenylephrineinduced mydriasis
+S848	Rubber anaphylaxis see comments
+S849	Occult infections causing persistent lowback pain
+S850	A new approach to the management of obstructed enteral feeding tubes
+S851	Endothelin receptor is coupled to phospholipase C via a pertussis toxininsensitive guanine nucleotidebinding regulatory protein in vascular smooth muscle cells
+S852	The Presidents John Michael Deines 19701971
+S853	From the Centers for Disease Control Cigarette smokingbehavioral risk factor surveillance system 1988
+S854	Sodium and potassium intake and blood pressure change in childhood see comments
+S855	Mitotic recombination within the centromere of a yeast chromosome
+S856	Coronary artery disease letter
+S857	Urine drug screening for cocaine after lacrimal surgery
+S858	Feeding children who have cleft lip or palate
+S859	Evaluation of the effect of norfloxacin on the pharmacokinetics of theophylline
+S860	Subcutaneous cholesterol crystal deposition and tophus formation letter
+S861	Priming with T helper cell epitope peptides enhances the antibody response to the envelope glycoprotein of HIV1 in primates
+S862	Ambulant myocardial ischemia and its prognostic implications comment
+S863	Analysis of the pullout strength of screws and pegs used to secure tibial components following total knee arthroplasty
+S864	Interaction between ethanol and stress on ACTH and betaendorphin secretion
+S865	Tenyear experience of strictureplasty for obstructive Crohns disease
+S866	DNAlooping and enhancer activity association between DNAbound NtrC activator and RNA polymerase at the bacterial glnA promoter
+S867	Comparison of the efficacy of a twoday and a fiveday schedule for infusing intravenous gamma globulin in the treatment of immune thrombocytopenic purpura in adults
+S868	The doublefissure sign a motion artifact on thinsection CT scans
+S869	Carbaryl poisoning and edrophonium electrophysiologic changes
+S870	Insulinlike growth factor I mediates selective anabolic effects of parathyroid hormone in bone cultures
+S871	Prophylactically administered Retrovir in health care workers potentially exposed to the human immunodeficiency virus
+S872	Generation of suppressor cells in atopic patients during immunotherapy that modulate IgE synthesis
+S873	Assisting the deficient resident in oral and maxillofacial surgery
+S874	Ventilation and breathing pattern during sleep in Duchenne muscular dystrophy
+S875	Perceptual and cognitive abnormalities in bulimia
+S876	Transcatheter closure of ventricular septal defects
+S877	A twofactor model of caregiving appraisal and psychological wellbeing
+S878	Cellsurface receptor for ecotropic murine retroviruses is a basic aminoacid transporter see comments
+S879	Not him again Thoughts on coping with irritating elderly patients
+S880	Cerebral metastases from occult papillary carcinoma of the thyroid
+S881	Cases in electrocardiography
+S882	Altered C1 inhibitor genes in type I hereditary angioedema published erratum appears in N Engl J Med 1987 Sep 331710641
+S883	Tomographic threedimensional reconstruction of cilia ultrastructure from thick sections
+S884	The Foot Function Index a measure of foot pain and disability
+S885	Gravitational forces on the chest wall
+S886	Metabolic profiles diet and health practices of championship male and female bodybuilders
+S887	Cranial magnetic resonance imaging in the evaluation of myelopathy of undetermined etiology
+S888	Special considerations for managing suspected human immunodeficiency virus infection and AIDS in patients from developing countries
+S889	Expression and state of phosphorylation of the retinoblastoma susceptibility gene product in cycling and noncycling human hematopoietic cells
+S890	Ramsay Hunt facial paralysis clinical analyses of 185 patients
+S891	Determination of stroke volume and cardiac output during exercise comparison of twodimensional and Doppler echocardiography Fick oximetry and thermodilution
+S892	Comprehension as the effective trigger in a case of primary reading epilepsy
+S893	The proportion of human sperm with poor morphology but normal intact acrosomes detected with Pisum sativum agglutinin correlates with fertilization in vitro
+S894	EpsteinBarr virus EBV induces expression of Bcell activation markers on in vitro infection of EBVnegative Blymphoma cells
+S895	Bronchodilator effects of oral metaproterenol sulfate in preschool children with asthma
+S896	Calcium oxalate crystals in breast biopsies An overlooked form of microcalcification associated with benign breast disease
+S897	Use of scleral eye shields for periorbital laser surgery
+S898	Cancer genes rare recombinants instead of activated oncogenes a review
+S899	Localization of a collageninteractive domain of human von Willebrand factor between amino acid residues Gly 911 and Glu 1365
+S900	Isomeric prostaglandin F2 compounds arising from prostaglandin D2 a family of icosanoids produced in vivo in humans
+S901	Penetrating keratoplasty after scleral patch graft
+S902	Cytotoxic T lymphocyte response to minor H43a alloantigen in H43b mice Privileged H2Kb restriction to the response is not due to immunodominance or epistatic effect but due to Ir gene function of H2Kb itself
+S903	Cutaneous ocular and osteoarticular candidiasis in patients who are not heroin addicts letter
+S904	WHO Multinational Project for Childhood Diabetes WHO Diamond Project Group
+S905	Role of a carboxylterminal helix in the assembly interchain interactions and stability of aspartate transcarbamoylase
+S906	Usual and unusual radiologic manifestations of acquired immunodeficiency syndrome AIDS and human immunodeficiency virus HIV infection in children
+S907	Are there indications for heterotopic heart transplantation today
+S908	Referral bias in elderly patients editorial
+S909	Mammographic guidewire localization of nonpalpable breast lesions
+S910	Food effects on the nighttime pharmacokinetics of TheoDur tablets
+S911	Is the Jarman score better than social class at assessing the need for prevention and primary care
+S912	Ultrastructure of the rat pancreas after experimental duct ligation I The role of apoptosis and intraepithelial macrophages in acinar cell deletion
+S913	Screening of nineteen unrelated families with generalized resistance to thyroid hormone for known point mutations in the thyroid hormone receptor beta gene and the detection of a new mutation
+S914	Large arteries involvement in sclerodermaa case report
+S915	The relationship between antiRo SSA antibodypositive Sjogrens syndrome and antiRo SSA antibodypositive lupus erythematosus
+S916	Sarcoidosis of the bladder a case report and literature review
+S917	Clinical considerations in the use of external microwaves for local hyperthermia
+S918	Experimental intracerebral mass timerelated effects on local cerebral blood flow
+S919	Phenobarbital influences the development of sodium retention in liver disease induced by bile duct ligation in the rat
+S920	Outcomes in patients with unusually high maternal serum alphafetoprotein levels
+S921	Are the holidays hazardous to your patients health editorial
+S922	ABC of antenatal care The changing body in pregnancy
+S923	Threeyear experience of treating recurrent respiratory papilloma with interferon
+S924	Channel specificity in antiarrhythmic drug action Mechanism of potassium channel block and its role in suppressing and aggravating cardiac arrhythmias
+S925	An amalgam tattoo causing local and systemic disease
+S926	Secondary systemic amyloidosis response and survival in 64 patients
+S927	An in vitro model for Toxoplasma infection in man Interaction between CD4 monoclonal T cells and macrophages results in killing of trophozoites
+S928	Periodic disease recurrent polyserositis familial Mediterranean fever or simply FMF
+S929	Skin colour MPTP and Parkinsons disease letter
+S930	Use of a direct fluorescent antibody test for detecting Chlamydia trachomatis cervical infection in women seeking routine gynecologic care
+S931	Early evaluation of cardiac injury by twodimensional echocardiography in patients suffering blunt chest trauma
+S932	Characterization of a thrombin cleavage site mutation Arg 1689 to Cys in the factor VIII gene of two unrelated patients with crossreacting materialpositive hemophilia A
+S933	Selection criteria for the evaluation of living related renal donors
+S934	Stroke risk and critical carotid stenosis
+S935	Percutaneous nephrostolithotomy and lithotripsy a multiinstitutional survey of complications
+S936	Invasive Aspergillus infection in chronic granulomatous disease treatment with itraconazole see comments
+S937	Presence of neurotensin and neuromedinN within a common precursor from a human pancreatic neuroendocrine tumor
+S938	Reestimations of the protein concentrations of birch pollen allergen extracts selected as candidates for the international standard IS preparation
+S939	Use of the activated partial thromboplastin time letter
+S940	The generation of immunogenic peptides can be selectively increased or decreased by proteolytic enzyme inhibitors
+S941	Serial changes in the 50g oral glucose test in pregnancy implications for screening
+S942	Participation of highrisk subjects in colon cancer screening
+S943	Granulocyte transfusions in neonates with presumed sepsis
+S944	Effects of nifedipine on the venodilatory response to nitroglycerin
+S945	Clinical research Threat from UK reforms news
+S946	Urinary pyrophosphate in patients with recurrent calcium urolithiasis and in healthy controls a reevaluation
+S947	Association between postdexamethasone cortisol level and blood pressure in depressed inpatients
+S948	Interleukin 2 suppression of a murine bladder cancer implanted into kidney bladder and skin its organ specificity
+S949	Cyst function in polycystic kidney disease nongradient cysts
+S950	Execs who switch careers get mixed results
+S951	Seizure activity mimicking brainstem herniation in children following head injuries
+S952	Infection in a patient with polycystic kidney and liver disease noninvasive localization and treatment letter
+S953	Correction RuGli cell line not of human origin letter
+S954	Comparative studies of 30 micrograms ethinyl estradiol combined with gestodene and desogestrel on blood coagulation fibrinolysis and platelets
+S955	The suprachiasmatic nuclei contain a tetrodotoxinresistant circadian pacemaker
+S956	Rectal hyperplastic polyps now you see them now you donta differential point
+S957	The rapid induction of the acrosome reaction of human spermatozoa by electropermeabilization
+S958	Energy requirements for defibrillation
+S959	Stab wounds involving the brachial plexus A review of operated cases
+S960	Cine CT in obstructive sleep apnea
+S961	Separation of sublethal and lethal effects of polymorphonuclear leukocytes on Escherichia coli
+S962	Extramedullary plasmacytoma of the thyroid associated with a serum monoclonal gammopathy
+S963	Incorporating tracertracee differences into models to improve accuracy
+S964	Determination of norepinephrine levels in the adult human prostate
+S965	Microvascular changes in the heart during chronic arterial hypertension
+S966	Human chorionic gonadotropin neuron specific enolase and deoxyribonucleic acid flow cytometry in patients with high grade bladder carcinoma
+S967	Dietary tryptophan reverses alcoholinduced impairment of facial recognition but not verbal recall
+S968	The effects of donor specific transfusion and cyclosporine A on graft outcome
+S969	Esophageal carcinoma with prominent spindle cells
+S970	The validity of selfreport data letter
+S971	Central lymph node changes and progressive massive fibrosis in coalworkers
+S972	The phenomenon syndrome and disease of Maurice Raynaud see comments
+S973	Mitral valve prolapse
+S974	Cardiovascular surgery 1988 Part 2 Council on Cardiovascular Surgery American Heart Association scientific sessions Washington November 1417 1988
+S975	Comparison of tracheal aspirates and protected brush catheter specimens for identifying pathogenic bacteria in mechanically ventilated patients
+S976	Cerebral circulation in chronic arterial hypertension
+S977	Immunohistochemical diagnosis of sinonasal melanoma carcinoma and neuroblastoma with monoclonal antibodies HMB45 and antisynaptophysin
+S978	Macrophage handling of a tolerogen and the role of IL 1 in tolerance induction in a helper T cell clone in vitro
+S979	Value of the resting 12 lead electrocardiogram and vectorcardiogram for locating the accessory pathway in patients with the WolffParkinsonWhite syndrome
+S980	Analysis of regional blood flow data letter
+S981	Picking up the tab for erythropoietin letter
+S982	Expression of alphasmooth muscle actin in murine bone marrow stromal cells
+S983	GadoliniumDTPAenhanced magnetic resonance imaging in experimental optic neuritis
+S984	The donotresuscitate order Ethical and legal imperative or medical decision
+S985	Complexes of activated protein C with alpha 1antitrypsin in normal pregnancy and in severe preeclampsia
+S986	Coagulation studies in cases of intrauterine death overkill
+S987	Evaluation and treatment of impotence a pragmatic approach addressing organic and psychogenic components
+S988	Lung fibroblasts produce growth stimulatory activity for bronchial epithelial cells
+S989	Quantitative analysis of amounts of coronary arterial narrowing in cocaine addicts
+S990	Positive MultiTest reactions do not cause false positive reactions at adjacent sites
+S991	Imported dengueUnited States 1988
+S992	An estimate of the prevalence of dementia in idiopathic Parkinsons disease
+S993	Effect of chlorpromazine on the development of experimental glomerulonephritis and Arthus reaction
+S994	Breast cancer minimalists maximalists other neoplasms letter
+S995	Angiographic demonstration of a common link between unstable angina pectoris and nonQwave acute myocardial infarction
+S996	Update selfinduced malaria associated with malariotherapy for Lyme diseaseTexas
+S997	Hypoglycemia alters striatal amino acid efflux in perinatal rats an in vivo microdialysis study
+S998	Severity and specificity of cognitive impairment in Alzheimers Huntingtons and Parkinsons diseases and progressive supranuclear palsy
+S999	Production of a streptomycinPark nucleotide complex by Streptomyces griseus
+S1000	Alterations in left ventricular diastolic twist mechanics during acute human cardiac allograft rejection
+S1001	Changes in uterine blood flow during human pregnancy
+S1002	Internal jugular vein thrombosis after ovulation induction with gonadotropins
+S1003	Health care in transition Consequences for young physicians Council on LongRange Planning and Development
+S1004	Bone mineral content in black and white children 1 to 6 years of age Early appearance of race and sex differences see comments
+S1005	Turnaround times letter
+S1006	Diarrhea and the burn patient is lipid in enteral formulas really deleterious letter
+S1007	Efficacy and safety of two oral solutions as maintenance therapy for acute diarrhea A doubleblind randomized multicenter trial
+S1008	Autosomal dominant deletions of the mitochondrial genome in a case of progressive encephalomyopathy
+S1009	Inflammatory mediators in chronic otitis media with effusion
+S1010	Acute compartment syndrome in the thigh complicating fracture of the femur A report of three cases
+S1011	Efficacy and tolerance of the new class IB antiarrhythmic barucainide an intravenous dosefinding study
+S1012	Implications of inflammatory changes on cervical cytology letter comment
+S1013	Inferior myocardial infarction complicated by mural thrombus and systemic embolization despite anticoagulation in progressive systemic sclerosis with normal coronary arteriograms
+S1014	Genetic linkage studies of thyroid peroxidase TPO gene in families with TPO deficiency
+S1015	A selfscored medical history teaching technique
+S1016	Calf implantation see comments
+S1017	Postoperative jaundice as a clue to unrecognized biliary tract obstruction
+S1018	Spinal anesthesia using subcutaneously implanted pumps for intrathecal drug infusion
+S1019	Pharyngeal gonorrhea screening in adolescents is it necessary
+S1020	Surgical coronary revascularization in survivors of prehospital cardiac arrest its effect on inducible ventricular arrhythmias and longterm survival see comments
+S1021	Ureteral stenting during extracorporeal shock wave lithotripsy help or hindrance see comments
+S1022	Intrathoracic lymphadenopathy in postprimary tuberculosis
+S1023	Basilar artery migraine stroke
