@@ -6,4 +6,4 @@ CRUZ, M. S. H. ; KOZAWA, Y. ; AMAGASA, T. ; KITAGAWA, H. . GPU Acceleration of S
 
 and
 
-CRUZ, M. S. H. ; KOZAWA, Y. ; AMAGASA, T. ; KITAGAWA, G. . Accelerating Set Similarity Joins Using GPUs. In: Transactions on Large-Scale Data and Knowledge-Centered Systems (TLDKS), 2016. http://link.springer.com/chapter/10.1007%2F978-3-662-53455-7_1
+CRUZ, M. S. H. ; KOZAWA, Y. ; AMAGASA, T. ; KITAGAWA, H. . Accelerating Set Similarity Joins Using GPUs. In: Transactions on Large-Scale Data and Knowledge-Centered Systems (TLDKS), 2016. http://link.springer.com/chapter/10.1007%2F978-3-662-53455-7_1
