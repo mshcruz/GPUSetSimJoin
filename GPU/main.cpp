@@ -37,21 +37,16 @@ main(int argc, char *argv[])
   ccsMatrix* h_characteristicMatrix = buildCharacteristicMatrix(h_shingleSetMap);
   tPreProc.stop();
 
-  // std::cout << "numsets: " << numSets << std::endl;
-  // std::cout << "shingleSetMap size: " << (int)num_unique_keys(h_shingleSetMap) << std::endl;
-  // std::cout << "col_ptr size: " << h_characteristicMatrix -> col_ptr.size() << std::endl;
-
   if (numSets != (int)num_unique_keys(h_shingleSetMap) || numSets+1 != (int)(h_characteristicMatrix -> col_ptr.size())) {
     std::cout << "Error in dataset. Possible problems: record containing only stop words or empty record." << std::endl;
     exit(-1);
   }
   
-  //  std::cout << "Finished preprocessing" << std::endl;
-
   std::vector<int> h_signatureMatrix (numSets*numBins);
   double tMinhash, tJoin, tMemoryTransfer;
   std::vector<int> h_resultPairs = kernelManager(h_signatureMatrix, h_characteristicMatrix, numShingles, rSize, sSize, numBins, tMinhash, tJoin, tMemoryTransfer);
 
+  // Printing results
   // for (int i = 0; i < (int)h_resultPairs.size()-1; i+=2) {
   //   std::cout << relationRSetsID[h_resultPairs[i]] << " " << relationSSetsID[h_resultPairs[i+1]] << std::endl;
   // }

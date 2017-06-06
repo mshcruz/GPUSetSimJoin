@@ -60,40 +60,15 @@ MurmurHash2 ( const void * key, int len, unsigned int seed )
   return h;
 }
 
-// __global__ void
-// computeSignatureMatrix_kernel(int *d_signatureMatrix, int *d_cmRowIdx, int* d_cmColPtr, int numShingles, int numSets, int numBins)
-// {
-//   const int tid = threadIdx.x + blockDim.x * blockIdx.x;
-//   int binSize = numShingles/numBins;
-//   if (numShingles % numBins) binSize++;
-
-//   if (tid < numSets) {
-//     for (int i = 0; i < numBins; i++) {
-//       d_signatureMatrix[i + (tid*numBins)] = INT_MAX; //NOT Coalesced
-//     }
-//     for (int i = d_cmColPtr[tid]; i < d_cmColPtr[tid+1]; i++) { //Coalesced
-//       int shingleIdx = d_cmRowIdx[i]; //Not coalesced
-//       int shingleNewIdx = MurmurHash2(&shingleIdx, 4, 0)%numShingles; //To do: remove mod
-//       int binIdx = shingleNewIdx/binSize;
-//       int offSetSM = binIdx + (tid*numBins);
-//        d_signatureMatrix[offSetSM] = min(d_signatureMatrix[offSetSM], shingleNewIdx); //Not coalesced
-//     }
-//   }
-// }
-
 __global__ void
 computeSignatureMatrix_kernel(int *d_signatureMatrix, int *d_cmRowIdx, int* d_cmColPtr, int numShingles, int rSize, int sSize)
 {
   __shared__ int s_signatures[NUM_BINS];
-  // __shared__ int s_initPosition;
-  // __shared__ int s_endPosition;
   int binSize = numShingles/NUM_BINS;
   if (numShingles % NUM_BINS) binSize++;
 
   for (int t = blockIdx.x; t < (rSize+sSize); t += gridDim.x) { //Each block computes the signature for one set
-    __syncthreads(); // Added by Kozawa
-                     // Without this synchronization, s_signatures may be updated
-                     // before the copy to device memory completes.
+    __syncthreads();
     //1 - Initialize the signatures in the shared memory
     for (int i = threadIdx.x; i < NUM_BINS; i += blockDim.x) {
       s_signatures[i] = INT_MAX;
@@ -103,16 +78,6 @@ computeSignatureMatrix_kernel(int *d_signatureMatrix, int *d_cmRowIdx, int* d_cm
     //2 - Get the positions of the elements for this set in the rowInd array
     int begin = d_cmColPtr[t];
     int end = d_cmColPtr[t + 1];
-
-    /*** __syncthreads is necessary if you use shared memory. (by Kozawa) ***/
-    // if (threadIdx.x == 0) {
-    //   s_initPosition = d_cmColPtr[t];
-    // }
-    // if (threadIdx.x == 1) {
-    //   s_endPosition = d_cmColPtr[t+1];
-    // }
-    // int numShinglesInRecord = s_endPosition - s_initPosition;
-
     int numShinglesInRecord = end - begin;
 
     //3 - Apply the hash function on the element and get its new position
@@ -202,7 +167,6 @@ nestedLoopJoinCounter_kernel(int* d_signatureMatrix, int rSize, int sSize, int n
                 emptyBins[i] = 0;
             }
             for (int i = 0; i < NUM_BINS; ++i) {
-	      // int ss = d_signatureMatrix[i * (rSize + sSize) + rSize + s];
 	      int ss = d_signatureMatrix[rSize * NUM_BINS + i * sSize + s];
 #pragma unroll
                 for (int j = 0; j < BATCH; ++j) {
@@ -264,7 +228,6 @@ nestedLoopJoinOutputter_kernel(int* d_signatureMatrix, int rSize, int sSize, int
                 emptyBins[i] = 0;
             }
             for (int i = 0; i < NUM_BINS; ++i) {
-              //  int ss = d_signatureMatrix[i * (rSize + sSize) + rSize + s]
 	      int ss = d_signatureMatrix[rSize * NUM_BINS + i * sSize + s];
 #pragma unroll
                 for (int j = 0; j < BATCH; ++j) {
@@ -336,17 +299,7 @@ kernelManager(std::vector<int> &h_signatureMatrix, ccsMatrix* h_characteristicMa
   cudaEventCreate(&stopMinhash);
   cudaEventRecord(startMinhash, 0);
 
-  //computeSignatureMatrix_kernel<<<numberOfBlocks, THREADS_PER_BLOCK>>>(d_signatureMatrix, d_cmRowIdx, d_cmColPtr, numShingles, numSets, numBins);
   computeSignatureMatrix_kernel<<<14 * 7 * 3 * 5, THREADS_PER_BLOCK>>>(d_signatureMatrix, d_cmRowIdx, d_cmColPtr, numShingles, rSize, sSize);
-
-  // cudaMemcpy(&h_signatureMatrix[0], d_signatureMatrix, sizeof(int)*smSize, cudaMemcpyDeviceToHost);
-
-  // for (int i = 0; i < rSize+sSize; i++) {
-  //   for (int j = 0; j < NUM_BINS; j++ ) {
-  //     std::cout << h_signatureMatrix[i*NUM_BINS+j] << " ";
-  //   }
-  //   std::cout << std::endl;
-  // }
 
   cudaDeviceSynchronize();
   cudaEventRecord(stopMinhash, 0);
@@ -368,23 +321,8 @@ kernelManager(std::vector<int> &h_signatureMatrix, ccsMatrix* h_characteristicMa
   cudaMemcpy(d_signatureMatrixT, d_signatureMatrix, sizeof(int) * rSize * NUM_BINS, cudaMemcpyDeviceToDevice);
   transpose<<<256, 256>>>(d_signatureMatrix + rSize * NUM_BINS, d_signatureMatrixT + rSize * NUM_BINS, sSize, NUM_BINS);
   nestedLoopJoinCounter_kernel<<<14 * 7 * 3 * 5, THREADS_PER_BLOCK>>>(d_signatureMatrixT, rSize, sSize, numBins, d_resultPositions);
-  // nestedLoopJoinCounter_kernel<<<numberOfBlocks, THREADS_PER_BLOCK>>>(d_signatureMatrix, rSize, sSize, numBins, d_resultPositions);
-  // std::vector<int> h_resultPositions(rSize);
-  // cudaMemcpy(&h_resultPositions[0], d_resultPositions, sizeof(int)*rSize, cudaMemcpyDeviceToHost);
-  // for (int i = 0; i < h_resultPositions.size(); i++) {
-  //   std::cout << h_resultPositions[i] << " ";
-  // }
-  // std::cout << std::endl;
-  // std::cout << std::endl;
-  // std::cout << std::endl;
 
   thrust::exclusive_scan(thrust::device, d_resultPositions, d_resultPositions + rSize, d_resultPositions); // in-place scan
-
-  // cudaMemcpy(&h_resultPositions[0], d_resultPositions, sizeof(int)*rSize, cudaMemcpyDeviceToHost);
-  // for (int i = 0; i < h_resultPositions.size(); i++) {
-  //   std::cout << h_resultPositions[i] << " ";
-  // }
-  // std::cout << std::endl;
 
   cudaMemcpyFromSymbol(&h_similarPairsCount, d_similarPairsCount, sizeof(int), 0, cudaMemcpyDeviceToHost);
   cudaMalloc(&d_resultPairs, sizeof(int) * h_similarPairsCount * 2);
@@ -403,7 +341,6 @@ kernelManager(std::vector<int> &h_signatureMatrix, ccsMatrix* h_characteristicMa
 
   std::vector<int> h_resultPairs (h_similarPairsCount*2);
   cudaMemcpy(&h_resultPairs[0], d_resultPairs, sizeof(int) * h_similarPairsCount * 2, cudaMemcpyDeviceToHost);
-  //  cudaMemcpy(&h_signatureMatrix[0], d_signatureMatrix, sizeof(int)*smSize, cudaMemcpyDeviceToHost);
 
   cudaDeviceSynchronize();
   cudaEventRecord(stopFinalTransfer, 0);

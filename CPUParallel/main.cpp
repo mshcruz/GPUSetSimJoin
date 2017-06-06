@@ -30,46 +30,13 @@ computeSignatureMatrix(std::vector<int> &signatureMatrix, ccsMatrix* characteris
     int offSetCM = characteristicMatrix -> col_ptr[i];
     for (int j = offSetCM; j < characteristicMatrix -> col_ptr[i+1]; j++) {
       int shingleIdx = characteristicMatrix -> row_ind[j];
-      int shingleNewIdx = MurmurHash2(&shingleIdx, 4, 0)%numShingles; //To do: remove mod
+      int shingleNewIdx = MurmurHash2(&shingleIdx, 4, 0)%numShingles;
       int binIdx = shingleNewIdx/binSize;
       int offSetSM = binIdx + (i*numBins);
       signatureMatrix[offSetSM] = std::min(signatureMatrix[offSetSM], shingleNewIdx);
     }
   }
 }
-
-// int
-// nestedLoopJoin(std::vector<int> signatureMatrix, int rSize, int sSize, std::vector<std::string> relationRSetsID, std::vector<std::string> relationSSetsID, int numBins, std::vector<int>& result)
-// {
-//   int similarPairs = 0, numSets = rSize+sSize;
-
-// #pragma omp parallel for reduction(+:similarPairs) shared (result)
-//   for (int i = 0; i < rSize; i++) {
-//     for (int j = rSize; j < numSets; j++) {
-//       int identicalMinhashes = 0;
-//       int emptyBins = 0;
-//       for (int k = 0; k < numBins; k++) {
-// 	if (signatureMatrix[k+(i*numBins)] == signatureMatrix[k+(j*numBins)]) {
-// 	  if (signatureMatrix[k+(i*numBins)] == INT_MAX) {
-// 	    emptyBins++;
-// 	  } else {
-// 	    identicalMinhashes++;
-// 	  }
-// 	}
-//       }
-//       double similarity = (identicalMinhashes*1.0)/((numBins*1.0) - (emptyBins*1.0));
-//       if (similarity >= SIMILARITY_THRESHOLD) {
-// 	//	std::cout << "The similarity between " << relationRSetsID[i] << " and " << relationSSetsID[j-rSize] << " is: " << similarity << "\n";
-// #pragma omp critical
-// 	result.push_back(i);
-// #pragma omp critical	
-// 	result.push_back(j-rSize);
-// 	similarPairs++;
-//       }
-//     }
-//   }
-//   return similarPairs;
-// }
 
 uint
 nestedLoopJoin(std::vector<int> signatureMatrix, int rSize, int sSize, std::vector<std::string> relationRSetsID, std::vector<std::string> relationSSetsID, int numBins, std::vector<int>& result)
@@ -172,6 +139,7 @@ main(int argc, char *argv[])
 
   std::vector<int> result;
   uint similarPairsCount = nestedLoopJoin(signatureMatrix, rSize, sSize, relationRSetsID, relationSSetsID, numBins, result) / 2;
+  // Print results
   //  std::cout << "Similar pairs: " << result.size() / 2 << std::endl;
   // for (int i = 0; i < result.size()-1 ; i+=2) {
   //   std::cout << relationRSetsID[result[i]] << " " << relationSSetsID[result[i+1]] << std::endl;
